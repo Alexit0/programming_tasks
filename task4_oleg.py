@@ -8,5 +8,5 @@ ROWS = 5
 
 for row in range(ROWS):
     for col in range(COLS):
-        print("A", end="")
+        print("A")
     print()
